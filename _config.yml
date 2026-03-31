@@ -1,12 +1,11 @@
 # Site settings
-title: Beau Gilbert
-email: beaugilbert93@gmail.com
-url: https://coachbeau.github.io/cyber-base
+title: Rashad Henry
+email: Rhenrysr87@gmail.com
+url: https://RenrySRIT.github.io/Cyber-Portfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
 skills: "Cybersecurity - Analyst - Ethical Hacker"
-meta_author: Gilbert Beau
-
+meta_author: Henry Rashad
 # Google webmaster tools
 google_verify:
 
@@ -25,14 +24,14 @@ disqus_shortname:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 2dd7b9 #80B3FF
-  primary-rgb: "45,215,185" #"128,179,255"
-  secondary: 48597a #FD6E8A
-  secondary-dark: 001846 #A2122F
+  primary:  beb7a4 #80B3FF
+  primary-rgb: "190,183,164" #"128,179,255"
+  secondary: fffffc #FD6E8A
+  secondary-dark: 000000 #A2122F
 
 # Footer settings
 footer:
-  copyright: Beau Gilbert
+  copyright: Rashad Henry
   location: Location
   social: Around the Web
   credits: Credits
@@ -40,17 +39,17 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/beau-gilbert93/
+    url: https://www.linkedin.com/in/rashad-henry-sr/
   - title: github
-    url: https://github.com/coachbeau
+    url: https://github.com/rashadhenrysrit
 
 # Email Address (make sure to include "mailto:" before your email!)
 email:
-  email-url: mailto:beaugilbert93@gmail.com
+  email-url: mailto:rhenrysr87@gmail.com
 
 # Postal address (add as many lines as necessary)
 location:
-  - line: Portland, Oregon
+  - line: Columbia,SC
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
